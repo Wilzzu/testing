@@ -1,0 +1,11 @@
+"patch"
+{
+	include "materials/trueexpert/player/unlit_default.vmt"
+	
+	insert
+	{
+		"$baseTexture" "trueexpert/player/ct_gign/unlit_base"
+		"$detail" "trueexpert/player/ct_gign/unlit_detail"
+		"$bumpmap" "models/player/ct_gign/ct_gign_normal"
+	}
+}

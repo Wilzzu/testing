@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "trueexpert\xmas\xmastree_miscB_skin2"
+ 	"$envmap" "env_cubemap"
+	"$envmapmask" "trueexpert\xmas\xmastree_miscB_spec"
+}

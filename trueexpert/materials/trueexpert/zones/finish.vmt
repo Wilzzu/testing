@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" 	"trueexpert/zones/finish"
+	"$alphatest" 	"1"
+}

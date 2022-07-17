@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "trueexpert\santahat\santa"
+	"$bumpmap" "trueexpert\santahat\santa_norm"
+
+	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

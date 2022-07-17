@@ -1,0 +1,5 @@
+//https://developer.valvesoftware.com/wiki/Material
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/w_models/w_eq_flashbang/w_eq_flashbang"
+}

@@ -1,0 +1,10 @@
+"patch"
+{
+	include "materials/trueexpert/player/vertex_default.vmt"
+	
+	insert
+	{
+		"$baseTexture" "trueexpert/player/ct_sas/vertex"
+		"$bumpmap" "models/player/ct_sas/ct_sas_normal"
+	}
+}

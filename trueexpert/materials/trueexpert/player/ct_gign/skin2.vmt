@@ -1,0 +1,10 @@
+"patch"
+{
+	include "materials/trueexpert/player/vertex_default.vmt"
+	
+	insert
+	{
+		"$baseTexture" "trueexpert/player/ct_gign/vertex"
+		"$bumpmap" "models/player/ct_gign/ct_gign_normal"
+	}
+}

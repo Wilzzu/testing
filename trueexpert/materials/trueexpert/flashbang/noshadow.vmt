@@ -1,0 +1,6 @@
+//https://developer.valvesoftware.com/wiki/UnlitGeneric
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\white"
+	"$model" "1"
+}

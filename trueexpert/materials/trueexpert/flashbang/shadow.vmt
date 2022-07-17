@@ -1,0 +1,5 @@
+//https://developer.valvesoftware.com/wiki/Material
+"VertexLitGeneric"
+{
+	"$basetexture" "vgui\white"
+}
