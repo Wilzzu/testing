@@ -1,0 +1,771 @@
+L 08/16/2021 - 03:11:31: SourceMod error session started
+L 08/16/2021 - 03:11:31: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 03:11:31: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 03:11:31: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 03:11:31: [SM] Call stack trace:
+L 08/16/2021 - 03:11:31: [SM]   [0] SetFailState
+L 08/16/2021 - 03:11:31: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 03:11:31: [SM]   [3] Call_Finish
+L 08/16/2021 - 03:11:31: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 03:11:31: [shavit-timelimit.smx] Timer (TIMELIMIT time selection) SQL query failed. Reason: no such table: playertimes
+L 08/16/2021 - 03:15:43: Error log file session closed.
+L 08/16/2021 - 03:15:48: SourceMod error session started
+L 08/16/2021 - 03:15:48: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 03:15:48: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 03:15:48: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 03:15:48: [SM] Call stack trace:
+L 08/16/2021 - 03:15:48: [SM]   [0] SetFailState
+L 08/16/2021 - 03:15:48: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 03:15:48: [SM]   [3] Call_Finish
+L 08/16/2021 - 03:15:48: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 03:35:04: Error log file session closed.
+L 08/16/2021 - 03:35:12: SourceMod error session started
+L 08/16/2021 - 03:35:12: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 03:35:12: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 03:35:12: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 03:35:12: [SM] Call stack trace:
+L 08/16/2021 - 03:35:12: [SM]   [0] SetFailState
+L 08/16/2021 - 03:35:12: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 03:35:12: [SM]   [3] Call_Finish
+L 08/16/2021 - 03:35:12: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 03:45:08: Error log file session closed.
+L 08/16/2021 - 03:59:21: SourceMod error session started
+L 08/16/2021 - 03:59:21: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 03:59:21: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 03:59:21: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 03:59:21: [SM] Call stack trace:
+L 08/16/2021 - 03:59:21: [SM]   [0] SetFailState
+L 08/16/2021 - 03:59:21: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 03:59:21: [SM]   [3] Call_Finish
+L 08/16/2021 - 03:59:21: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 04:02:49: Error log file session closed.
+L 08/16/2021 - 05:20:18: SourceMod error session started
+L 08/16/2021 - 05:20:18: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 05:20:18: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 05:20:18: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 05:20:18: [SM] Call stack trace:
+L 08/16/2021 - 05:20:18: [SM]   [0] SetFailState
+L 08/16/2021 - 05:20:18: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 05:20:18: [SM]   [3] Call_Finish
+L 08/16/2021 - 05:20:18: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 05:40:27: Error log file session closed.
+L 08/16/2021 - 16:13:46: SourceMod error session started
+L 08/16/2021 - 16:13:46: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 16:13:46: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 16:13:46: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 16:13:46: [SM] Call stack trace:
+L 08/16/2021 - 16:13:46: [SM]   [0] SetFailState
+L 08/16/2021 - 16:13:46: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 16:13:46: [SM]   [3] Call_Finish
+L 08/16/2021 - 16:13:46: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 16:15:17: Error log file session closed.
+L 08/16/2021 - 16:25:02: SourceMod error session started
+L 08/16/2021 - 16:25:02: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 16:25:02: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 16:25:02: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 16:25:02: [SM] Call stack trace:
+L 08/16/2021 - 16:25:02: [SM]   [0] SetFailState
+L 08/16/2021 - 16:25:02: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 16:25:02: [SM]   [3] Call_Finish
+L 08/16/2021 - 16:25:02: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 16:25:52: Error log file session closed.
+L 08/16/2021 - 17:29:49: SourceMod error session started
+L 08/16/2021 - 17:29:49: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 17:29:49: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 17:29:49: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 17:29:50: [SM] Call stack trace:
+L 08/16/2021 - 17:29:50: [SM]   [0] SetFailState
+L 08/16/2021 - 17:29:50: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 17:29:50: [SM]   [3] Call_Finish
+L 08/16/2021 - 17:29:50: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 17:30:47: Error log file session closed.
+L 08/16/2021 - 17:43:45: SourceMod error session started
+L 08/16/2021 - 17:43:45: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 17:43:45: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 17:43:45: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 17:43:45: [SM] Call stack trace:
+L 08/16/2021 - 17:43:45: [SM]   [0] SetFailState
+L 08/16/2021 - 17:43:45: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 17:43:45: [SM]   [3] Call_Finish
+L 08/16/2021 - 17:43:45: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 17:44:36: Error log file session closed.
+L 08/16/2021 - 17:45:28: SourceMod error session started
+L 08/16/2021 - 17:45:28: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 17:45:28: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 17:45:28: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 17:45:28: [SM] Call stack trace:
+L 08/16/2021 - 17:45:28: [SM]   [0] SetFailState
+L 08/16/2021 - 17:45:28: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 17:45:28: [SM]   [3] Call_Finish
+L 08/16/2021 - 17:45:28: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 17:46:05: Error log file session closed.
+L 08/16/2021 - 17:55:31: SourceMod error session started
+L 08/16/2021 - 17:55:31: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 17:55:31: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 17:55:31: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 17:55:31: [SM] Call stack trace:
+L 08/16/2021 - 17:55:31: [SM]   [0] SetFailState
+L 08/16/2021 - 17:55:31: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 17:55:31: [SM]   [3] Call_Finish
+L 08/16/2021 - 17:55:31: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 17:56:18: Error log file session closed.
+L 08/16/2021 - 17:58:48: SourceMod error session started
+L 08/16/2021 - 17:58:48: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 17:58:48: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 17:58:48: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 17:58:48: [SM] Call stack trace:
+L 08/16/2021 - 17:58:48: [SM]   [0] SetFailState
+L 08/16/2021 - 17:58:48: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 17:58:48: [SM]   [3] Call_Finish
+L 08/16/2021 - 17:58:48: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 17:59:16: Error log file session closed.
+L 08/16/2021 - 18:00:54: SourceMod error session started
+L 08/16/2021 - 18:00:54: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 18:00:54: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 18:00:54: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 18:00:54: [SM] Call stack trace:
+L 08/16/2021 - 18:00:54: [SM]   [0] SetFailState
+L 08/16/2021 - 18:00:54: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 18:00:54: [SM]   [3] Call_Finish
+L 08/16/2021 - 18:00:54: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 18:01:47: Error log file session closed.
+L 08/16/2021 - 18:16:37: SourceMod error session started
+L 08/16/2021 - 18:16:37: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 18:16:37: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 18:16:37: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 18:16:37: [SM] Call stack trace:
+L 08/16/2021 - 18:16:37: [SM]   [0] SetFailState
+L 08/16/2021 - 18:16:37: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 18:16:37: [SM]   [3] Call_Finish
+L 08/16/2021 - 18:16:37: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 18:40:47: Error log file session closed.
+L 08/16/2021 - 18:40:58: SourceMod error session started
+L 08/16/2021 - 18:40:58: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 18:40:58: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 18:40:58: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 18:40:58: [SM] Call stack trace:
+L 08/16/2021 - 18:40:58: [SM]   [0] SetFailState
+L 08/16/2021 - 18:40:58: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 18:40:58: [SM]   [3] Call_Finish
+L 08/16/2021 - 18:40:58: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 18:42:32: Error log file session closed.
+L 08/16/2021 - 18:42:47: SourceMod error session started
+L 08/16/2021 - 18:42:47: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 18:42:47: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 18:42:47: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 18:42:47: [SM] Call stack trace:
+L 08/16/2021 - 18:42:47: [SM]   [0] SetFailState
+L 08/16/2021 - 18:42:47: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 18:42:47: [SM]   [3] Call_Finish
+L 08/16/2021 - 18:42:47: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 18:50:31: SourceMod error session started
+L 08/16/2021 - 18:50:31: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 18:50:31: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 18:50:31: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 18:50:31: [SM] Call stack trace:
+L 08/16/2021 - 18:50:31: [SM]   [0] SetFailState
+L 08/16/2021 - 18:50:31: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 18:50:31: [SM]   [3] Call_Finish
+L 08/16/2021 - 18:50:31: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 18:51:10: Error log file session closed.
+L 08/16/2021 - 18:51:17: SourceMod error session started
+L 08/16/2021 - 18:51:17: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 18:51:17: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 18:51:17: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 18:51:17: [SM] Call stack trace:
+L 08/16/2021 - 18:51:17: [SM]   [0] SetFailState
+L 08/16/2021 - 18:51:17: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 18:51:17: [SM]   [3] Call_Finish
+L 08/16/2021 - 18:51:17: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 18:55:06: Error log file session closed.
+L 08/16/2021 - 19:48:55: SourceMod error session started
+L 08/16/2021 - 19:48:55: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 19:48:55: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 19:48:55: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 19:48:55: [SM] Call stack trace:
+L 08/16/2021 - 19:48:55: [SM]   [0] SetFailState
+L 08/16/2021 - 19:48:55: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 19:48:55: [SM]   [3] Call_Finish
+L 08/16/2021 - 19:48:55: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 19:50:35: Error log file session closed.
+L 08/16/2021 - 20:11:59: SourceMod error session started
+L 08/16/2021 - 20:11:59: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 20:11:59: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 20:11:59: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 20:11:59: [SM] Call stack trace:
+L 08/16/2021 - 20:11:59: [SM]   [0] SetFailState
+L 08/16/2021 - 20:11:59: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 20:11:59: [SM]   [3] Call_Finish
+L 08/16/2021 - 20:11:59: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 20:13:34: Error log file session closed.
+L 08/16/2021 - 20:13:44: SourceMod error session started
+L 08/16/2021 - 20:13:44: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 20:13:44: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 20:13:44: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 20:13:44: [SM] Call stack trace:
+L 08/16/2021 - 20:13:44: [SM]   [0] SetFailState
+L 08/16/2021 - 20:13:44: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 20:13:44: [SM]   [3] Call_Finish
+L 08/16/2021 - 20:13:44: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 20:14:21: Error log file session closed.
+L 08/16/2021 - 21:18:09: SourceMod error session started
+L 08/16/2021 - 21:18:09: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 21:18:09: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 21:18:09: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 21:18:09: [SM] Call stack trace:
+L 08/16/2021 - 21:18:09: [SM]   [0] SetFailState
+L 08/16/2021 - 21:18:09: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 21:18:09: [SM]   [3] Call_Finish
+L 08/16/2021 - 21:18:09: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 21:25:10: Error log file session closed.
+L 08/16/2021 - 21:25:17: SourceMod error session started
+L 08/16/2021 - 21:25:17: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 21:25:17: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 21:25:17: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 21:25:17: [SM] Call stack trace:
+L 08/16/2021 - 21:25:17: [SM]   [0] SetFailState
+L 08/16/2021 - 21:25:17: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 21:25:17: [SM]   [3] Call_Finish
+L 08/16/2021 - 21:25:17: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 21:29:01: Error log file session closed.
+L 08/16/2021 - 21:33:05: SourceMod error session started
+L 08/16/2021 - 21:33:05: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 21:33:05: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 21:33:05: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 21:33:05: [SM] Call stack trace:
+L 08/16/2021 - 21:33:05: [SM]   [0] SetFailState
+L 08/16/2021 - 21:33:05: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 21:33:05: [SM]   [3] Call_Finish
+L 08/16/2021 - 21:33:05: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 21:37:24: Error log file session closed.
+L 08/16/2021 - 21:40:29: SourceMod error session started
+L 08/16/2021 - 21:40:29: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 21:40:29: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 21:40:29: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 21:40:29: [SM] Call stack trace:
+L 08/16/2021 - 21:40:29: [SM]   [0] SetFailState
+L 08/16/2021 - 21:40:29: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 21:40:29: [SM]   [3] Call_Finish
+L 08/16/2021 - 21:40:29: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 21:43:17: Error log file session closed.
+L 08/16/2021 - 21:43:45: SourceMod error session started
+L 08/16/2021 - 21:43:45: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 21:43:45: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 21:43:45: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 21:43:45: [SM] Call stack trace:
+L 08/16/2021 - 21:43:45: [SM]   [0] SetFailState
+L 08/16/2021 - 21:43:45: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 21:43:45: [SM]   [3] Call_Finish
+L 08/16/2021 - 21:43:45: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 21:58:26: Error log file session closed.
+L 08/16/2021 - 21:58:58: SourceMod error session started
+L 08/16/2021 - 21:58:58: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 21:58:58: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 21:58:58: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 21:58:58: [SM] Call stack trace:
+L 08/16/2021 - 21:58:58: [SM]   [0] SetFailState
+L 08/16/2021 - 21:58:58: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 21:58:58: [SM]   [3] Call_Finish
+L 08/16/2021 - 21:58:58: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 22:01:20: Error log file session closed.
+L 08/16/2021 - 22:02:02: SourceMod error session started
+L 08/16/2021 - 22:02:02: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 22:02:02: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 22:02:02: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 22:02:02: [SM] Call stack trace:
+L 08/16/2021 - 22:02:02: [SM]   [0] SetFailState
+L 08/16/2021 - 22:02:02: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 22:02:02: [SM]   [3] Call_Finish
+L 08/16/2021 - 22:02:02: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 22:10:32: Error log file session closed.
+L 08/16/2021 - 22:10:42: SourceMod error session started
+L 08/16/2021 - 22:10:42: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 22:10:42: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 22:10:42: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 22:10:42: [SM] Call stack trace:
+L 08/16/2021 - 22:10:42: [SM]   [0] SetFailState
+L 08/16/2021 - 22:10:42: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 22:10:42: [SM]   [3] Call_Finish
+L 08/16/2021 - 22:10:42: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 22:10:49: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:10:49: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:10:49: [SM] Call stack trace:
+L 08/16/2021 - 22:10:49: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:10:49: [SM]   [3] EndMessage
+L 08/16/2021 - 22:10:49: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:10:49: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:10:49: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:10:50: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:10:50: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:10:50: [SM] Call stack trace:
+L 08/16/2021 - 22:10:50: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:10:50: [SM]   [3] EndMessage
+L 08/16/2021 - 22:10:50: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:10:50: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:10:50: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:10:58: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:10:58: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:10:58: [SM] Call stack trace:
+L 08/16/2021 - 22:10:58: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:10:58: [SM]   [3] EndMessage
+L 08/16/2021 - 22:10:58: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:10:58: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:10:58: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:10:58: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:10:58: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:10:58: [SM] Call stack trace:
+L 08/16/2021 - 22:10:58: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:10:58: [SM]   [3] EndMessage
+L 08/16/2021 - 22:10:58: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:10:58: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:10:58: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:10:59: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:10:59: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:10:59: [SM] Call stack trace:
+L 08/16/2021 - 22:10:59: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:10:59: [SM]   [3] EndMessage
+L 08/16/2021 - 22:10:59: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:10:59: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:10:59: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:11:00: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:11:00: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:11:00: [SM] Call stack trace:
+L 08/16/2021 - 22:11:00: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:11:00: [SM]   [3] EndMessage
+L 08/16/2021 - 22:11:00: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:11:00: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:11:00: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:11:01: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:11:01: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:11:01: [SM] Call stack trace:
+L 08/16/2021 - 22:11:01: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:11:01: [SM]   [3] EndMessage
+L 08/16/2021 - 22:11:01: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:11:01: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:11:01: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:11:01: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:11:01: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:11:01: [SM] Call stack trace:
+L 08/16/2021 - 22:11:01: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:11:01: [SM]   [3] EndMessage
+L 08/16/2021 - 22:11:01: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:11:01: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:11:01: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:11:02: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:11:02: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:11:02: [SM] Call stack trace:
+L 08/16/2021 - 22:11:02: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:11:02: [SM]   [3] EndMessage
+L 08/16/2021 - 22:11:02: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:11:02: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:11:02: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:11:03: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:11:03: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:11:03: [SM] Call stack trace:
+L 08/16/2021 - 22:11:03: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:11:03: [SM]   [3] EndMessage
+L 08/16/2021 - 22:11:03: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:11:03: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:11:03: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:11:04: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:11:04: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:11:04: [SM] Call stack trace:
+L 08/16/2021 - 22:11:04: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:11:04: [SM]   [3] EndMessage
+L 08/16/2021 - 22:11:04: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:11:04: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:11:04: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:11:08: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:11:08: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:11:08: [SM] Call stack trace:
+L 08/16/2021 - 22:11:08: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:11:08: [SM]   [3] EndMessage
+L 08/16/2021 - 22:11:08: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:11:08: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:11:08: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:11:24: Error log file session closed.
+L 08/16/2021 - 22:12:00: SourceMod error session started
+L 08/16/2021 - 22:12:00: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 22:12:00: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 22:12:00: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 22:12:00: [SM] Call stack trace:
+L 08/16/2021 - 22:12:00: [SM]   [0] SetFailState
+L 08/16/2021 - 22:12:01: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 22:12:01: [SM]   [3] Call_Finish
+L 08/16/2021 - 22:12:01: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 22:12:06: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:12:06: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:12:06: [SM] Call stack trace:
+L 08/16/2021 - 22:12:06: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:12:06: [SM]   [3] EndMessage
+L 08/16/2021 - 22:12:06: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:12:06: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:12:06: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:12:07: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:12:07: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:12:07: [SM] Call stack trace:
+L 08/16/2021 - 22:12:07: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:12:07: [SM]   [3] EndMessage
+L 08/16/2021 - 22:12:07: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:12:07: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:12:07: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:12:08: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:12:08: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:12:08: [SM] Call stack trace:
+L 08/16/2021 - 22:12:08: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:12:08: [SM]   [3] EndMessage
+L 08/16/2021 - 22:12:08: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:12:08: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:12:08: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:12:09: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:12:09: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:12:09: [SM] Call stack trace:
+L 08/16/2021 - 22:12:09: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:12:09: [SM]   [3] EndMessage
+L 08/16/2021 - 22:12:09: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:12:09: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:12:09: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:12:19: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:12:19: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:12:19: [SM] Call stack trace:
+L 08/16/2021 - 22:12:19: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:12:19: [SM]   [3] EndMessage
+L 08/16/2021 - 22:12:19: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:12:19: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:12:19: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:15:21: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:15:21: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:15:22: [SM] Call stack trace:
+L 08/16/2021 - 22:15:22: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:15:22: [SM]   [3] EndMessage
+L 08/16/2021 - 22:15:22: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:15:22: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:15:22: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:15:23: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:15:23: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:15:23: [SM] Call stack trace:
+L 08/16/2021 - 22:15:23: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:15:23: [SM]   [3] EndMessage
+L 08/16/2021 - 22:15:23: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:15:23: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:15:23: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:15:24: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:15:24: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:15:24: [SM] Call stack trace:
+L 08/16/2021 - 22:15:24: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:15:24: [SM]   [3] EndMessage
+L 08/16/2021 - 22:15:24: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:15:24: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:15:24: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:15:24: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:15:24: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:15:24: [SM] Call stack trace:
+L 08/16/2021 - 22:15:24: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:15:24: [SM]   [3] EndMessage
+L 08/16/2021 - 22:15:24: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:15:24: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:15:24: [SM]   [6] Line 62, C:\Users\wille\Desktop\SPEDit\sourcepawn\scripts\ThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:25:10: Error log file session closed.
+L 08/16/2021 - 22:25:13: SourceMod error session started
+L 08/16/2021 - 22:25:13: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 22:25:13: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 22:25:13: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 22:25:13: [SM] Call stack trace:
+L 08/16/2021 - 22:25:13: [SM]   [0] SetFailState
+L 08/16/2021 - 22:25:13: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 22:25:13: [SM]   [3] Call_Finish
+L 08/16/2021 - 22:25:13: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 22:26:04: Error log file session closed.
+L 08/16/2021 - 22:26:49: SourceMod error session started
+L 08/16/2021 - 22:26:49: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 22:26:49: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 22:26:49: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 22:26:49: [SM] Call stack trace:
+L 08/16/2021 - 22:26:49: [SM]   [0] SetFailState
+L 08/16/2021 - 22:26:49: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 22:26:49: [SM]   [3] Call_Finish
+L 08/16/2021 - 22:26:49: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 22:26:58: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:26:58: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:26:58: [SM] Call stack trace:
+L 08/16/2021 - 22:26:58: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:26:58: [SM]   [3] EndMessage
+L 08/16/2021 - 22:26:58: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:26:58: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:26:58: [SM]   [6] Line 59, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:26:58: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:26:58: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:26:58: [SM] Call stack trace:
+L 08/16/2021 - 22:26:58: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:26:58: [SM]   [3] EndMessage
+L 08/16/2021 - 22:26:58: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:26:58: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:26:58: [SM]   [6] Line 62, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:26:59: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:26:59: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:26:59: [SM] Call stack trace:
+L 08/16/2021 - 22:26:59: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:26:59: [SM]   [3] EndMessage
+L 08/16/2021 - 22:26:59: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:26:59: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:26:59: [SM]   [6] Line 59, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:26:59: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:26:59: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:26:59: [SM] Call stack trace:
+L 08/16/2021 - 22:26:59: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:26:59: [SM]   [3] EndMessage
+L 08/16/2021 - 22:26:59: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:26:59: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:26:59: [SM]   [6] Line 62, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:00: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:00: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:00: [SM] Call stack trace:
+L 08/16/2021 - 22:27:00: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:00: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:00: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:00: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:00: [SM]   [6] Line 59, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:00: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:00: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:00: [SM] Call stack trace:
+L 08/16/2021 - 22:27:01: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:01: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:01: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:01: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:01: [SM]   [6] Line 62, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:01: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:01: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:01: [SM] Call stack trace:
+L 08/16/2021 - 22:27:01: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:01: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:01: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:01: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:01: [SM]   [6] Line 59, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:01: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:01: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:01: [SM] Call stack trace:
+L 08/16/2021 - 22:27:01: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:01: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:01: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:01: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:01: [SM]   [6] Line 62, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:02: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:02: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:02: [SM] Call stack trace:
+L 08/16/2021 - 22:27:02: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:02: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:02: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:02: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:02: [SM]   [6] Line 59, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:02: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:02: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:02: [SM] Call stack trace:
+L 08/16/2021 - 22:27:02: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:02: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:02: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:02: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:02: [SM]   [6] Line 62, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:03: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:03: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:03: [SM] Call stack trace:
+L 08/16/2021 - 22:27:03: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:03: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:03: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:03: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:03: [SM]   [6] Line 59, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:03: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:03: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:03: [SM] Call stack trace:
+L 08/16/2021 - 22:27:03: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:03: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:03: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:03: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:03: [SM]   [6] Line 62, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:05: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:05: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:05: [SM] Call stack trace:
+L 08/16/2021 - 22:27:05: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:05: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:05: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:05: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:05: [SM]   [6] Line 59, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:05: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:05: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:05: [SM] Call stack trace:
+L 08/16/2021 - 22:27:05: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:05: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:05: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:05: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:05: [SM]   [6] Line 62, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:06: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:06: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:06: [SM] Call stack trace:
+L 08/16/2021 - 22:27:06: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:06: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:06: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:06: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:06: [SM]   [6] Line 59, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:06: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:06: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:06: [SM] Call stack trace:
+L 08/16/2021 - 22:27:06: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:06: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:06: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:06: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:06: [SM]   [6] Line 62, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:08: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:08: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:08: [SM] Call stack trace:
+L 08/16/2021 - 22:27:08: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:08: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:08: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:08: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:08: [SM]   [6] Line 59, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:08: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:08: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:08: [SM] Call stack trace:
+L 08/16/2021 - 22:27:08: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:08: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:08: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:08: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:08: [SM]   [6] Line 62, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:09: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:09: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:09: [SM] Call stack trace:
+L 08/16/2021 - 22:27:09: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:09: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:09: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:09: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:09: [SM]   [6] Line 59, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:27:09: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:27:09: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:27:09: [SM] Call stack trace:
+L 08/16/2021 - 22:27:09: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:27:09: [SM]   [3] EndMessage
+L 08/16/2021 - 22:27:09: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:27:09: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:27:09: [SM]   [6] Line 62, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:29:16: Error log file session closed.
+L 08/16/2021 - 22:29:37: SourceMod error session started
+L 08/16/2021 - 22:29:37: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 22:29:37: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 22:29:37: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 22:29:37: [SM] Call stack trace:
+L 08/16/2021 - 22:29:37: [SM]   [0] SetFailState
+L 08/16/2021 - 22:29:37: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 22:29:37: [SM]   [3] Call_Finish
+L 08/16/2021 - 22:29:37: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 22:31:00: Error log file session closed.
+L 08/16/2021 - 22:31:48: SourceMod error session started
+L 08/16/2021 - 22:31:48: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 22:31:48: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 22:31:48: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 22:31:48: [SM] Call stack trace:
+L 08/16/2021 - 22:31:48: [SM]   [0] SetFailState
+L 08/16/2021 - 22:31:48: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 22:31:48: [SM]   [3] Call_Finish
+L 08/16/2021 - 22:31:48: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 22:31:54: [SM] Exception reported: Array index out-of-bounds (index 254, limit 66)
+L 08/16/2021 - 22:31:54: [SM] Blaming: shavit-chat.smx
+L 08/16/2021 - 22:31:54: [SM] Call stack trace:
+L 08/16/2021 - 22:31:54: [SM]   [1] Line 447, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-chat.sp::Hook_SayText2
+L 08/16/2021 - 22:31:54: [SM]   [3] EndMessage
+L 08/16/2021 - 22:31:54: [SM]   [4] Line 350, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CSayText2
+L 08/16/2021 - 22:31:54: [SM]   [5] Line 74, C:\Users\wille\Desktop\SPEDit\sourcepawn\configs\sm_1_8_5914\include\colors.inc::CPrintToChat
+L 08/16/2021 - 22:31:54: [SM]   [6] Line 63, C:\Users\wille\Documents\WilzzusThrowStats.sp::Event_PlayerJump
+L 08/16/2021 - 22:34:47: Error log file session closed.
+L 08/16/2021 - 22:34:58: SourceMod error session started
+L 08/16/2021 - 22:34:58: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 22:34:58: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 22:34:58: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 22:34:58: [SM] Call stack trace:
+L 08/16/2021 - 22:34:58: [SM]   [0] SetFailState
+L 08/16/2021 - 22:34:58: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 22:34:58: [SM]   [3] Call_Finish
+L 08/16/2021 - 22:34:58: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 22:36:32: Error log file session closed.
+L 08/16/2021 - 22:36:42: SourceMod error session started
+L 08/16/2021 - 22:36:42: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 22:36:42: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 22:36:42: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 22:36:42: [SM] Call stack trace:
+L 08/16/2021 - 22:36:42: [SM]   [0] SetFailState
+L 08/16/2021 - 22:36:42: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 22:36:42: [SM]   [3] Call_Finish
+L 08/16/2021 - 22:36:42: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 23:11:39: Error log file session closed.
+L 08/16/2021 - 23:11:52: SourceMod error session started
+L 08/16/2021 - 23:11:52: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 23:11:52: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 23:11:52: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 23:11:52: [SM] Call stack trace:
+L 08/16/2021 - 23:11:52: [SM]   [0] SetFailState
+L 08/16/2021 - 23:11:52: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 23:11:52: [SM]   [3] Call_Finish
+L 08/16/2021 - 23:11:52: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 23:18:56: Error log file session closed.
+L 08/16/2021 - 23:19:02: SourceMod error session started
+L 08/16/2021 - 23:19:02: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 23:19:02: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 23:19:02: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 23:19:02: [SM] Call stack trace:
+L 08/16/2021 - 23:19:02: [SM]   [0] SetFailState
+L 08/16/2021 - 23:19:02: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 23:19:02: [SM]   [3] Call_Finish
+L 08/16/2021 - 23:19:02: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 23:23:49: Error log file session closed.
+L 08/16/2021 - 23:24:31: SourceMod error session started
+L 08/16/2021 - 23:24:31: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 23:24:31: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 23:24:31: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 23:24:31: [SM] Call stack trace:
+L 08/16/2021 - 23:24:31: [SM]   [0] SetFailState
+L 08/16/2021 - 23:24:31: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 23:24:31: [SM]   [3] Call_Finish
+L 08/16/2021 - 23:24:31: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 23:29:20: SourceMod error session started
+L 08/16/2021 - 23:29:20: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 23:29:20: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 23:29:20: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 23:29:20: [SM] Call stack trace:
+L 08/16/2021 - 23:29:20: [SM]   [0] SetFailState
+L 08/16/2021 - 23:29:20: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 23:29:20: [SM]   [3] Call_Finish
+L 08/16/2021 - 23:29:20: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 23:29:29: SourceMod error session started
+L 08/16/2021 - 23:29:29: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 23:29:29: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 23:29:29: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 23:29:29: [SM] Call stack trace:
+L 08/16/2021 - 23:29:29: [SM]   [0] SetFailState
+L 08/16/2021 - 23:29:29: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 23:29:29: [SM]   [3] Call_Finish
+L 08/16/2021 - 23:29:29: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 23:32:14: SourceMod error session started
+L 08/16/2021 - 23:32:14: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 23:32:14: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 23:32:14: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 23:32:14: [SM] Call stack trace:
+L 08/16/2021 - 23:32:14: [SM]   [0] SetFailState
+L 08/16/2021 - 23:32:14: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 23:32:14: [SM]   [3] Call_Finish
+L 08/16/2021 - 23:32:14: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 23:35:10: Error log file session closed.
+L 08/16/2021 - 23:35:15: SourceMod error session started
+L 08/16/2021 - 23:35:15: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 23:35:15: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 23:35:15: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 23:35:15: [SM] Call stack trace:
+L 08/16/2021 - 23:35:15: [SM]   [0] SetFailState
+L 08/16/2021 - 23:35:15: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 23:35:15: [SM]   [3] Call_Finish
+L 08/16/2021 - 23:35:15: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback
+L 08/16/2021 - 23:38:08: SourceMod error session started
+L 08/16/2021 - 23:38:08: Info (map "trikz_daemon") (file "C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\logs\errors_20210816.log")
+L 08/16/2021 - 23:38:08: [SM] Exception reported: MySQL is the only supported database engine for shavit-rankings.
+L 08/16/2021 - 23:38:08: [SM] Blaming: shavit-rankings.smx
+L 08/16/2021 - 23:38:08: [SM] Call stack trace:
+L 08/16/2021 - 23:38:08: [SM]   [0] SetFailState
+L 08/16/2021 - 23:38:08: [SM]   [1] Line 227, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-rankings.sp::Shavit_OnDatabaseLoaded
+L 08/16/2021 - 23:38:08: [SM]   [3] Call_Finish
+L 08/16/2021 - 23:38:08: [SM]   [4] Line 3304, D:\sourcemod-1.10.0-git6510-windows\addons\sourcemod\scripting\shavit-core.sp::SQL_CreateUsersTable_Callback

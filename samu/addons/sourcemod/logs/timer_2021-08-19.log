@@ -1,0 +1,73 @@
+2021-08-19 00:35:17 [timer-logging.smx]               INFO | Logging started
+2021-08-19 18:46:54 [timer-logging.smx]               INFO | Logging started
+2021-08-19 18:46:57 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 18:46:58 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 18:46:58 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 18:46:58 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 18:46:59 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 18:50:31 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 20:00:42 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 20:00:48 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 20:02:29 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 20:29:18 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 20:29:50 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 20:29:54 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:14:21 [timer-logging.smx]               INFO | Logging started
+2021-08-19 23:14:22 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:14:23 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:14:23 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:14:24 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:14:24 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:39:47 [timer-mapzones.smx]              ERROR | SQL Error on LoadMapZones: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:39:47 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:40:16 [timer-logging.smx]               INFO | Logging started
+2021-08-19 23:40:17 [timer-core.smx]                  ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:17 [timer-mapzones.smx]              ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:17 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:17 [timer-mapzones.smx]              ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:17 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:17 [timer-core.smx]                  ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:17 [timer-mapzones.smx]              ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:18 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:18 [timer-mapzones.smx]              ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:18 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:18 [timer-core.smx]                  ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:18 [timer-mapzones.smx]              ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:18 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:19 [timer-mapzones.smx]              ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:40:19 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:40:19 [timer-core.smx]                  ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:19 [timer-mapzones.smx]              ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:40:19 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:40:19 [timer-core.smx]                  ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:20 [timer-core.smx]                  ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:40:54 [timer-logging.smx]               INFO | Logging started
+2021-08-19 23:40:55 [timer-core.smx]                  ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:55 [timer-mapzones.smx]              ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:55 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:55 [timer-mapzones.smx]              ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:55 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:55 [timer-core.smx]                  ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:55 [timer-mapzones.smx]              ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:55 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:56 [timer-mapzones.smx]              ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:56 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:56 [timer-core.smx]                  ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:56 [timer-mapzones.smx]              ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:56 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:56 [timer-mapzones.smx]              ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:40:57 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:40:57 [timer-core.smx]                  ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:57 [timer-mapzones.smx]              ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:40:57 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:40:57 [timer-core.smx]                  ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:40:57 [timer-core.smx]                  ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:42:38 [timer-logging.smx]               INFO | Logging started
+2021-08-19 23:42:40 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:42:40 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:42:41 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:42:41 [timer-worldrecord.smx]           ERROR | Connection to SQL database has failed, Reason: [1226]: User 'udszjsv5y25mmbcg' has exceeded the 'max_user_connections' resource (current value: 5)
+2021-08-19 23:42:41 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-19 23:43:47 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-20 00:00:00 [timer-logging.smx]               INFO | Date changed; switching log file
+2021-08-20 00:00:00 [timer-logging.smx]               INFO | Logging stopped

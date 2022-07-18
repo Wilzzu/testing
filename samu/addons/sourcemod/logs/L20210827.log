@@ -1,0 +1,12 @@
+L 08/27/2021 - 16:37:30: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210827.log") (Version "1.10.0.6510")
+L 08/27/2021 - 16:37:30: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/27/2021 - 16:38:54: [basecommands.smx] "TyöstöKärry<4><[U:1:91517524]><>" changed map to "trikz_soft"
+L 08/27/2021 - 16:38:57: [SM] Changed map to "trikz_soft"
+L 08/27/2021 - 16:38:58: -------- Mapchange to trikz_soft --------
+L 08/27/2021 - 16:57:54: [basecommands.smx] "TyöstöKärry<4><[U:1:91517524]><>" changed map to "trikz_short"
+L 08/27/2021 - 16:57:57: [SM] Changed map to "trikz_short"
+L 08/27/2021 - 16:57:58: -------- Mapchange to trikz_short --------
+L 08/27/2021 - 17:29:50: [basecommands.smx] "TyöstöKärry<4><[U:1:91517524]><>" changed map to "trikz_go"
+L 08/27/2021 - 17:29:53: [SM] Changed map to "trikz_go"
+L 08/27/2021 - 17:29:55: -------- Mapchange to trikz_go --------
+L 08/27/2021 - 18:56:00: Log file closed.

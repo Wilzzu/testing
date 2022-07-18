@@ -1,0 +1,108 @@
+L 09/04/2021 - 00:35:51: SourceMod error session started
+L 09/04/2021 - 00:35:51: Info (map "trikz_practice") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210904.log")
+L 09/04/2021 - 00:35:51: [SM] Exception reported: This plugin requires one of the cURL, Socket, SteamTools, or SteamWorks extensions to function.
+L 09/04/2021 - 00:35:51: [SM] Blaming: updater.smx
+L 09/04/2021 - 00:35:51: [SM] Call stack trace:
+L 09/04/2021 - 00:35:51: [SM]   [0] SetFailState
+L 09/04/2021 - 00:35:51: [SM]   [1] Line 102, D:\Downloads\Unsorted\sourcemod-1.6.3-windows\addons\sourcemod\scripting\updater.sp::OnPluginStart
+L 09/04/2021 - 00:35:51: [SM] Unable to load plugin "updater.smx": Error detected in plugin startup (see error logs)
+L 09/04/2021 - 00:35:54: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/04/2021 - 00:35:54: [SM] Exception reported: Mapcycle Not Found
+L 09/04/2021 - 00:35:54: [SM] Blaming: nextmap.smx
+L 09/04/2021 - 00:35:54: [SM] Call stack trace:
+L 09/04/2021 - 00:35:54: [SM]   [0] SetFailState
+L 09/04/2021 - 00:35:54: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/04/2021 - 00:35:54: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/04/2021 - 00:42:21: Error log file session closed.
+L 09/04/2021 - 00:42:21: SourceMod error session started
+L 09/04/2021 - 00:42:21: Info (map "trikz_addict") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210904.log")
+L 09/04/2021 - 00:42:21: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/04/2021 - 00:42:21: [SM] Exception reported: Mapcycle Not Found
+L 09/04/2021 - 00:42:21: [SM] Blaming: nextmap.smx
+L 09/04/2021 - 00:42:21: [SM] Call stack trace:
+L 09/04/2021 - 00:42:21: [SM]   [0] SetFailState
+L 09/04/2021 - 00:42:21: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/04/2021 - 00:42:21: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/04/2021 - 01:05:20: SourceMod error session started
+L 09/04/2021 - 01:05:20: Info (map "trikz_practice") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210904.log")
+L 09/04/2021 - 01:05:20: [SM] Exception reported: This plugin requires one of the cURL, Socket, SteamTools, or SteamWorks extensions to function.
+L 09/04/2021 - 01:05:20: [SM] Blaming: updater.smx
+L 09/04/2021 - 01:05:20: [SM] Call stack trace:
+L 09/04/2021 - 01:05:20: [SM]   [0] SetFailState
+L 09/04/2021 - 01:05:20: [SM]   [1] Line 102, D:\Downloads\Unsorted\sourcemod-1.6.3-windows\addons\sourcemod\scripting\updater.sp::OnPluginStart
+L 09/04/2021 - 01:05:20: [SM] Unable to load plugin "updater.smx": Error detected in plugin startup (see error logs)
+L 09/04/2021 - 01:05:20: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/04/2021 - 01:05:20: [SM] Exception reported: Mapcycle Not Found
+L 09/04/2021 - 01:05:20: [SM] Blaming: nextmap.smx
+L 09/04/2021 - 01:05:20: [SM] Call stack trace:
+L 09/04/2021 - 01:05:20: [SM]   [0] SetFailState
+L 09/04/2021 - 01:05:20: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/04/2021 - 01:05:20: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/04/2021 - 01:07:45: Error log file session closed.
+L 09/04/2021 - 01:07:46: SourceMod error session started
+L 09/04/2021 - 01:07:46: Info (map "trikz_alteria_final") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210904.log")
+L 09/04/2021 - 01:07:46: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/04/2021 - 01:07:46: [SM] Exception reported: Mapcycle Not Found
+L 09/04/2021 - 01:07:46: [SM] Blaming: nextmap.smx
+L 09/04/2021 - 01:07:46: [SM] Call stack trace:
+L 09/04/2021 - 01:07:46: [SM]   [0] SetFailState
+L 09/04/2021 - 01:07:46: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/04/2021 - 01:07:46: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/04/2021 - 02:24:15: Error log file session closed.
+L 09/04/2021 - 02:24:15: SourceMod error session started
+L 09/04/2021 - 02:24:15: Info (map "trikz_p") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210904.log")
+L 09/04/2021 - 02:24:15: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/04/2021 - 02:24:15: [SM] Exception reported: Mapcycle Not Found
+L 09/04/2021 - 02:24:15: [SM] Blaming: nextmap.smx
+L 09/04/2021 - 02:24:15: [SM] Call stack trace:
+L 09/04/2021 - 02:24:15: [SM]   [0] SetFailState
+L 09/04/2021 - 02:24:15: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/04/2021 - 02:24:15: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/04/2021 - 02:24:22: [SM] Exception reported: Array index out-of-bounds (index 251, limit 66)
+L 09/04/2021 - 02:24:22: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:22: [SM] Call stack trace:
+L 09/04/2021 - 02:24:22: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger
+L 09/04/2021 - 02:24:22: [SM] Exception reported: Array index out-of-bounds (index 246, limit 66)
+L 09/04/2021 - 02:24:22: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:22: [SM] Call stack trace:
+L 09/04/2021 - 02:24:22: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger
+L 09/04/2021 - 02:24:22: [SM] Exception reported: Array index out-of-bounds (index 247, limit 66)
+L 09/04/2021 - 02:24:22: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:22: [SM] Call stack trace:
+L 09/04/2021 - 02:24:22: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger
+L 09/04/2021 - 02:24:22: [SM] Exception reported: Array index out-of-bounds (index 250, limit 66)
+L 09/04/2021 - 02:24:22: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:22: [SM] Call stack trace:
+L 09/04/2021 - 02:24:22: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger
+L 09/04/2021 - 02:24:22: [SM] Exception reported: Array index out-of-bounds (index 248, limit 66)
+L 09/04/2021 - 02:24:22: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:22: [SM] Call stack trace:
+L 09/04/2021 - 02:24:22: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger
+L 09/04/2021 - 02:24:22: [SM] Exception reported: Array index out-of-bounds (index 249, limit 66)
+L 09/04/2021 - 02:24:22: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:22: [SM] Call stack trace:
+L 09/04/2021 - 02:24:22: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger
+L 09/04/2021 - 02:24:23: [SM] Exception reported: Array index out-of-bounds (index 250, limit 66)
+L 09/04/2021 - 02:24:23: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:23: [SM] Call stack trace:
+L 09/04/2021 - 02:24:23: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger
+L 09/04/2021 - 02:24:23: [SM] Exception reported: Array index out-of-bounds (index 246, limit 66)
+L 09/04/2021 - 02:24:23: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:23: [SM] Call stack trace:
+L 09/04/2021 - 02:24:23: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger
+L 09/04/2021 - 02:24:23: [SM] Exception reported: Array index out-of-bounds (index 248, limit 66)
+L 09/04/2021 - 02:24:23: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:23: [SM] Call stack trace:
+L 09/04/2021 - 02:24:23: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger
+L 09/04/2021 - 02:24:23: [SM] Exception reported: Array index out-of-bounds (index 251, limit 66)
+L 09/04/2021 - 02:24:23: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:23: [SM] Call stack trace:
+L 09/04/2021 - 02:24:23: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger
+L 09/04/2021 - 02:24:23: [SM] Exception reported: Array index out-of-bounds (index 249, limit 66)
+L 09/04/2021 - 02:24:23: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:23: [SM] Call stack trace:
+L 09/04/2021 - 02:24:23: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger
+L 09/04/2021 - 02:24:24: [SM] Exception reported: Array index out-of-bounds (index 247, limit 66)
+L 09/04/2021 - 02:24:24: [SM] Blaming: runbooststats.smx
+L 09/04/2021 - 02:24:24: [SM] Call stack trace:
+L 09/04/2021 - 02:24:24: [SM]   [1] Line 196, C:\Users\wille\Desktop\css\cssds\cstrike\addons\sourcemod\scripting\runbooststats.sp::OutputTrigger

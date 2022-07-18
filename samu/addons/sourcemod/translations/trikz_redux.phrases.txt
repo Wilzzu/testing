@@ -1,0 +1,317 @@
+"Phrases"
+{
+	"sm_trikz"
+	{
+		"#format" "{1:s}"
+		"en" "Trikz (Redux) - Version {1}"
+	}
+
+	"sm_plugindisabled"
+	{
+		"en" "This plugin is disabled."
+	}
+
+	"sm_teleportdisabled"
+	{
+		"en" "Player teleportations are disabled."
+	}
+
+	"sm_welcome"
+	{
+		"en" "This server running Trikz. Type !trikz or !t to open the Trikz menu."
+	}
+
+	"sm_flash"
+	{
+		"en" "Give Flashbang"
+	}
+
+	"sm_obtainedflashbang"
+	{
+		"en" "Sucessfully obtained a Flashbang."
+	}
+
+	"sm_toomuchflashbangs"
+	{
+		"en" "You have too many Flashbangs."
+	}
+
+	"sm_youmustbealive"
+	{
+		"en" "You have to be alive to use this command."
+	}
+
+	"sm_autoflash"
+	{
+		"#format" "{1:s}"
+		"en" "Auto Flash [{1}]"
+	}
+
+	"sm_autoswitch"
+	{
+		"#format" "{1:s}"
+		"en" "Auto Switch [{1}]"
+	}
+
+	"sm_autoswitchenabled"
+	{
+		"en" "Auto switch is now enabled."
+	}
+
+	"sm_autoswitchdisabled"
+	{
+		"en" "Auto switch is now disabled."
+	}
+
+	"sm_autoflashenabled"
+	{
+		"en" "Auto flash is now enabled."
+	}
+
+	"sm_autoflashdisabled"
+	{
+		"en" "Auto flash is now disabled."
+	}
+
+	"sm_respawn"
+	{
+		"en" "Respawn Yourself"
+	}
+
+	"sm_respawnnotify"
+	{
+		"en" "Successfully respawned."
+	}
+
+	"sm_respawnfailed"
+	{
+		"en" "You have to in a team to respawn yourself."
+	}
+
+	"sm_tpto"
+	{
+		"en" "Teleport To Player"
+	}
+
+	"sm_selectaplayer"
+	{
+		"en" "Select A Player:\n\nWarning: Your timer will stop.\n"
+	}
+
+	"sm_noplayers"
+	{
+		"en" "No players are available to teleport."
+	}
+
+	"sm_cooldown"
+	{
+		"#format" "{1:d}"
+		"en" "There's a cooldown between each teleport. [{1}/15]"
+	}
+
+	"sm_teleportask"
+	{
+		"#format" "{1:N}"
+		"en" "{1} Wants To Teleport To You"
+	}
+
+	"sm_accept"
+	{
+		"en" "Accept"
+	}
+
+	"sm_deny"
+	{
+		"en" "Deny"
+	}
+
+	"sm_denied"
+	{
+		"#format" "{1:N}"
+		"en" "{1} has denied your request."
+	}
+
+	"sm_accepted"
+	{
+		"#format" "{1:N}"
+		"en" "{1} has accepted your request."
+	}
+
+	"sm_unabletoteleport"
+	{
+		"#format" "{1:N}"
+		"en" "Unable to teleport to {1} due to no enough space."
+	}
+
+	"sm_unabletoaccept"
+	{
+		"en" "Unable to accept the teleport request due to no enough space."
+	}
+
+	"sm_ghost"
+	{
+		"en" "You are ghost."
+	}
+
+	"sm_blocking"
+	{
+		"en" "You are blocking."
+	}
+
+	"sm_block"
+	{
+		"en" "Toggle Blocking"
+	}
+
+	"sm_cpmenu"
+	{
+		"en" "Checkpoints Menu"
+	}
+
+	"sm_cpmenutitle"
+	{
+		"en" "Checkpoints Menu\nYour timer will stop when you teleport.\n"
+	}
+
+	"sm_save1"
+	{
+		"en" "Save checkpoint no. 1"
+	}
+
+	"sm_tele1"
+	{
+		"en" "Teleport to checkpoint no. 1"
+	}
+
+	"sm_save2"
+	{
+		"en" "Save checkpoint no. 2"
+	}
+
+	"sm_tele2"
+	{
+		"en" "Teleport to checkpoint no. 2"
+	}
+
+	"sm_ground"
+	{
+		"en" "You have to be on the ground to save checkpoints."
+	}
+
+	"sm_saved1"
+	{
+		"en" "Saved checkpoint no. 1"
+	}
+
+	"sm_saved2"
+	{
+		"en" "Saved checkpoint no. 2"
+	}
+
+	"sm_teleported1"
+	{
+		"en" "Teleported to checkpoint no. 1"
+	}
+
+	"sm_teleported2"
+	{
+		"en" "Teleported to checkpoint no. 2"
+	}
+
+	"sm_youmustsave1"
+	{
+		"en" "You must save checkpoint 1 before teleporting to it."
+	}
+
+	"sm_youmustsave2"
+	{
+		"en" "You must save checkpoint 2 before teleporting to it."
+	}
+
+	"sm_cpdisabled"
+	{
+		"en" "Checkpoints are disabled by the server owner."
+	}
+
+	"sm_selectapartner"
+	{
+		"en" "Select Your Trikz Partner:"
+	}
+
+	"sm_nopartners"
+	{
+		"en" "No partners are available."
+	}
+
+	"sm_partnercooldown"
+	{
+		"#format" "{1:d}"
+		"en" "There's a cooldown between each partner selection. [{1}/15]"
+	}
+
+	"sm_partnerask"
+	{
+		"#format" "{1:N}"
+		"en" "{1} Wants To Be Your Trikz Partner"
+	}
+
+	"sm_trikzpartner"
+	{
+		"en" "Select Trikz Partner"
+	}
+
+	"sm_needpartner"
+	{
+		"en" "You need a partner to start your timer."
+	}
+
+	"sm_partnerisdead"
+	{
+		"en" "Your partner is dead or not in-game.\nPick a new one by using !partner."
+	}
+
+	"sm_difficultiesnotsame"
+	{
+		"#format" "{1:N},{2:s},{3:s}"
+		"en" "Your partner's difficulty is not the same as yours.\n\nYour partner: {1}.\nYour difficulty: {2}.\nYour partner's difficulty: {3}"
+	}
+
+	"sm_cancelpartner"
+	{
+		"#format" "{1:N}"
+		"en" "Cancel Trikz Partnership"
+	}
+
+	"sm_cancelpartnership"
+	{
+		"#format" "{1:N}"
+		"en" "Do You Want To Cancel Your Partnership With {1}?"
+	}
+
+	"sm_needpartnerforthis"
+	{
+		"en" "You need a partner to cancel your partnership with the current one."
+	}
+
+	"sm_alreadyhavepartner"
+	{
+		"en" "You already have a partner."
+	}
+
+	"sm_isnotyourpartneranymore"
+	{
+		"#format" "{1:N}"
+		"en" "{1} is not your partner anymore."
+	}
+
+	"sm_disabledhispartnership"
+	{
+		"#format" "{1:N}"
+		"en" "{1} has disabled his partnership with you."
+	}
+
+	"sm_youneedapartnerforthiscommand"
+	{
+		"en" "You need a partner to perform this command."
+	}
+}

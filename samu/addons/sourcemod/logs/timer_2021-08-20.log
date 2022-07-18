@@ -1,0 +1,8 @@
+2021-08-20 00:00:00 [timer-logging.smx]               INFO | Logging started
+2021-08-20 00:30:05 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-20 00:30:07 [timer-worldrecord.smx]           ERROR | PLUGIN STOPPED - Reason: reconnect counter reached max - PLUGIN STOPPED
+2021-08-20 02:05:54 [timer-logging.smx]               INFO | Logging started
+2021-08-20 02:17:36 [timer-logging.smx]               INFO | Logging started
+2021-08-20 02:18:48 [timer-logging.smx]               INFO | Logging started
+2021-08-20 02:20:23 [timer-logging.smx]               INFO | Logging started
+2021-08-20 02:21:03 [timer-logging.smx]               INFO | Logging started

@@ -1,0 +1,11 @@
+"patch"
+{
+	include "materials/fakeexpert/player/unlit_default.vmt"
+	
+	insert
+	{
+		"$baseTexture" "fakeexpert/player/ct_sas/unlit_base"
+		"$detail" "fakeexpert/player/ct_sas/unlit_detail"
+		"$bumpmap" "models/player/ct_sas/ct_sas_normal"
+	}
+}

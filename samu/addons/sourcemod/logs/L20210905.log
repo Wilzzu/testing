@@ -1,0 +1,40 @@
+L 09/05/2021 - 01:06:04: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210905.log") (Version "1.10.0.6510")
+L 09/05/2021 - 01:06:04: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/05/2021 - 01:06:46: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_concret"
+L 09/05/2021 - 01:06:49: [SM] Changed map to "trikz_concret"
+L 09/05/2021 - 01:06:49: -------- Mapchange to trikz_concret --------
+L 09/05/2021 - 01:29:31: [basecommands.smx] "Dr. WilzzubB0b<8><[U:1:187499203]><>" changed map to "mad"
+L 09/05/2021 - 01:29:34: [SM] Changed map to "mad"
+L 09/05/2021 - 01:29:35: -------- Mapchange to trikz_mad_d --------
+L 09/05/2021 - 01:35:37: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210905.log") (Version "1.10.0.6510")
+L 09/05/2021 - 01:35:37: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/05/2021 - 01:36:03: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_mad_d"
+L 09/05/2021 - 01:36:06: [SM] Changed map to "trikz_mad_d"
+L 09/05/2021 - 01:36:06: -------- Mapchange to trikz_mad_d --------
+L 09/05/2021 - 01:38:31: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210905.log") (Version "1.10.0.6510")
+L 09/05/2021 - 01:38:31: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/05/2021 - 01:38:49: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_mad_d"
+L 09/05/2021 - 01:38:52: [SM] Changed map to "trikz_mad_d"
+L 09/05/2021 - 01:38:52: -------- Mapchange to trikz_mad_d --------
+L 09/05/2021 - 01:39:12: [basecommands.smx] "Dr. WilzzubB0b<3><[U:1:187499203]><>" changed map to "mycraft"
+L 09/05/2021 - 01:39:15: [SM] Changed map to "mycraft"
+L 09/05/2021 - 01:39:15: -------- Mapchange to trikz_mycraft_f2 --------
+L 09/05/2021 - 01:40:45: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210905.log") (Version "1.10.0.6510")
+L 09/05/2021 - 01:40:45: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/05/2021 - 01:41:04: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_mycraft_f2"
+L 09/05/2021 - 01:41:07: [SM] Changed map to "trikz_mycraft_f2"
+L 09/05/2021 - 01:41:07: -------- Mapchange to trikz_mycraft_f2 --------
+L 09/05/2021 - 01:42:12: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210905.log") (Version "1.10.0.6510")
+L 09/05/2021 - 01:42:12: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/05/2021 - 01:44:17: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_move"
+L 09/05/2021 - 01:44:20: [SM] Changed map to "trikz_move"
+L 09/05/2021 - 01:44:22: -------- Mapchange to trikz_move --------
+L 09/05/2021 - 02:08:23: [teleport.smx] "Dr. WilzzubB0b<6><[U:1:187499203]><>" teleported "TyöstöKärry<2><[U:1:91517524]><>" to himself.
+L 09/05/2021 - 02:20:13: [basecommands.smx] "TyöstöKärry<7><[U:1:91517524]><>" changed map to "trikz_cyrus"
+L 09/05/2021 - 02:20:16: [SM] Changed map to "trikz_cyrus"
+L 09/05/2021 - 02:20:17: -------- Mapchange to trikz_cyrus --------
+L 09/05/2021 - 21:34:22: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210905.log") (Version "1.10.0.6510")
+L 09/05/2021 - 21:34:22: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/05/2021 - 21:35:05: [basecommands.smx] "TyöstöKärry<3><[U:1:91517524]><>" changed map to "trikz_penguin"
+L 09/05/2021 - 21:35:08: [SM] Changed map to "trikz_penguin"
+L 09/05/2021 - 21:35:11: -------- Mapchange to trikz_penguin --------

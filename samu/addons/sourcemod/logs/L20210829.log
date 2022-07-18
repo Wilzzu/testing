@@ -1,0 +1,11 @@
+L 08/29/2021 - 02:33:22: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210829.log") (Version "1.10.0.6510")
+L 08/29/2021 - 02:33:22: [basecommands.smx] "TyöstöKärry<4><[U:1:91517524]><>" changed map to "trikz_speed"
+L 08/29/2021 - 02:33:25: [SM] Changed map to "trikz_speed"
+L 08/29/2021 - 02:33:25: -------- Mapchange to trikz_speed --------
+L 08/29/2021 - 02:34:23: [teleport.smx] "Dr. WilzzubB0b<3><[U:1:187499203]><>" teleported to "TyöstöKärry<4><[U:1:91517524]><>".
+L 08/29/2021 - 02:40:14: [basecommands.smx] "TyöstöKärry<4><[U:1:91517524]><>" changed map to "trikz_visuals"
+L 08/29/2021 - 02:40:17: [SM] Changed map to "trikz_visuals"
+L 08/29/2021 - 02:40:17: -------- Mapchange to trikz_visuals --------
+L 08/29/2021 - 02:42:20: [basecommands.smx] "Dr. WilzzubB0b<9><[U:1:187499203]><>" changed map to "visuals"
+L 08/29/2021 - 02:42:23: [SM] Changed map to "visuals"
+L 08/29/2021 - 02:42:23: -------- Mapchange to trikz_visuals --------

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" 	"fakeexpert/zones/check_point"
+	"$alphatest" 	"1"
+}

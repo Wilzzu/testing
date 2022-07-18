@@ -1,0 +1,162 @@
+L 09/05/2021 - 01:06:07: SourceMod error session started
+L 09/05/2021 - 01:06:07: Info (map "trikz_practice") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 01:06:07: [SM] Exception reported: This plugin requires one of the cURL, Socket, SteamTools, or SteamWorks extensions to function.
+L 09/05/2021 - 01:06:07: [SM] Blaming: updater.smx
+L 09/05/2021 - 01:06:07: [SM] Call stack trace:
+L 09/05/2021 - 01:06:07: [SM]   [0] SetFailState
+L 09/05/2021 - 01:06:07: [SM]   [1] Line 102, D:\Downloads\Unsorted\sourcemod-1.6.3-windows\addons\sourcemod\scripting\updater.sp::OnPluginStart
+L 09/05/2021 - 01:06:07: [SM] Unable to load plugin "updater.smx": Error detected in plugin startup (see error logs)
+L 09/05/2021 - 01:06:11: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 01:06:11: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 01:06:11: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 01:06:11: [SM] Call stack trace:
+L 09/05/2021 - 01:06:11: [SM]   [0] SetFailState
+L 09/05/2021 - 01:06:11: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 01:06:11: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 01:06:49: Error log file session closed.
+L 09/05/2021 - 01:06:49: SourceMod error session started
+L 09/05/2021 - 01:06:49: Info (map "trikz_concret") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 01:06:49: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 01:06:49: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 01:06:49: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 01:06:49: [SM] Call stack trace:
+L 09/05/2021 - 01:06:49: [SM]   [0] SetFailState
+L 09/05/2021 - 01:06:49: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 01:06:49: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 01:29:35: Error log file session closed.
+L 09/05/2021 - 01:29:35: SourceMod error session started
+L 09/05/2021 - 01:29:35: Info (map "trikz_mad_d") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 01:29:35: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 01:29:35: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 01:29:35: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 01:29:35: [SM] Call stack trace:
+L 09/05/2021 - 01:29:35: [SM]   [0] SetFailState
+L 09/05/2021 - 01:29:35: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 01:29:35: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 01:35:37: SourceMod error session started
+L 09/05/2021 - 01:35:37: Info (map "trikz_practice") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 01:35:37: [SM] Exception reported: This plugin requires one of the cURL, Socket, SteamTools, or SteamWorks extensions to function.
+L 09/05/2021 - 01:35:37: [SM] Blaming: updater.smx
+L 09/05/2021 - 01:35:37: [SM] Call stack trace:
+L 09/05/2021 - 01:35:37: [SM]   [0] SetFailState
+L 09/05/2021 - 01:35:37: [SM]   [1] Line 102, D:\Downloads\Unsorted\sourcemod-1.6.3-windows\addons\sourcemod\scripting\updater.sp::OnPluginStart
+L 09/05/2021 - 01:35:37: [SM] Unable to load plugin "updater.smx": Error detected in plugin startup (see error logs)
+L 09/05/2021 - 01:35:38: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 01:35:38: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 01:35:38: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 01:35:38: [SM] Call stack trace:
+L 09/05/2021 - 01:35:38: [SM]   [0] SetFailState
+L 09/05/2021 - 01:35:38: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 01:35:38: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 01:36:06: Error log file session closed.
+L 09/05/2021 - 01:36:06: SourceMod error session started
+L 09/05/2021 - 01:36:06: Info (map "trikz_mad_d") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 01:36:06: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 01:36:06: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 01:36:06: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 01:36:06: [SM] Call stack trace:
+L 09/05/2021 - 01:36:06: [SM]   [0] SetFailState
+L 09/05/2021 - 01:36:06: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 01:36:06: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 01:38:31: SourceMod error session started
+L 09/05/2021 - 01:38:31: Info (map "trikz_practice") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 01:38:31: [SM] Exception reported: This plugin requires one of the cURL, Socket, SteamTools, or SteamWorks extensions to function.
+L 09/05/2021 - 01:38:31: [SM] Blaming: updater.smx
+L 09/05/2021 - 01:38:31: [SM] Call stack trace:
+L 09/05/2021 - 01:38:31: [SM]   [0] SetFailState
+L 09/05/2021 - 01:38:31: [SM]   [1] Line 102, D:\Downloads\Unsorted\sourcemod-1.6.3-windows\addons\sourcemod\scripting\updater.sp::OnPluginStart
+L 09/05/2021 - 01:38:31: [SM] Unable to load plugin "updater.smx": Error detected in plugin startup (see error logs)
+L 09/05/2021 - 01:38:32: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 01:38:32: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 01:38:32: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 01:38:32: [SM] Call stack trace:
+L 09/05/2021 - 01:38:32: [SM]   [0] SetFailState
+L 09/05/2021 - 01:38:32: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 01:38:32: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 01:38:52: Error log file session closed.
+L 09/05/2021 - 01:38:52: SourceMod error session started
+L 09/05/2021 - 01:38:52: Info (map "trikz_mad_d") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 01:38:52: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 01:38:52: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 01:38:52: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 01:38:52: [SM] Call stack trace:
+L 09/05/2021 - 01:38:52: [SM]   [0] SetFailState
+L 09/05/2021 - 01:38:52: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 01:38:52: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 01:39:15: Error log file session closed.
+L 09/05/2021 - 01:40:45: SourceMod error session started
+L 09/05/2021 - 01:40:45: Info (map "trikz_practice") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 01:40:45: [SM] Exception reported: This plugin requires one of the cURL, Socket, SteamTools, or SteamWorks extensions to function.
+L 09/05/2021 - 01:40:45: [SM] Blaming: updater.smx
+L 09/05/2021 - 01:40:45: [SM] Call stack trace:
+L 09/05/2021 - 01:40:45: [SM]   [0] SetFailState
+L 09/05/2021 - 01:40:45: [SM]   [1] Line 102, D:\Downloads\Unsorted\sourcemod-1.6.3-windows\addons\sourcemod\scripting\updater.sp::OnPluginStart
+L 09/05/2021 - 01:40:45: [SM] Unable to load plugin "updater.smx": Error detected in plugin startup (see error logs)
+L 09/05/2021 - 01:40:46: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 01:40:46: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 01:40:46: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 01:40:46: [SM] Call stack trace:
+L 09/05/2021 - 01:40:46: [SM]   [0] SetFailState
+L 09/05/2021 - 01:40:46: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 01:40:46: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 01:41:07: Error log file session closed.
+L 09/05/2021 - 01:42:12: SourceMod error session started
+L 09/05/2021 - 01:42:12: Info (map "trikz_practice") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 01:42:12: [SM] Exception reported: This plugin requires one of the cURL, Socket, SteamTools, or SteamWorks extensions to function.
+L 09/05/2021 - 01:42:12: [SM] Blaming: updater.smx
+L 09/05/2021 - 01:42:12: [SM] Call stack trace:
+L 09/05/2021 - 01:42:12: [SM]   [0] SetFailState
+L 09/05/2021 - 01:42:12: [SM]   [1] Line 102, D:\Downloads\Unsorted\sourcemod-1.6.3-windows\addons\sourcemod\scripting\updater.sp::OnPluginStart
+L 09/05/2021 - 01:42:12: [SM] Unable to load plugin "updater.smx": Error detected in plugin startup (see error logs)
+L 09/05/2021 - 01:42:13: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 01:42:13: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 01:42:13: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 01:42:13: [SM] Call stack trace:
+L 09/05/2021 - 01:42:13: [SM]   [0] SetFailState
+L 09/05/2021 - 01:42:13: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 01:42:13: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 01:44:22: Error log file session closed.
+L 09/05/2021 - 01:44:22: SourceMod error session started
+L 09/05/2021 - 01:44:22: Info (map "trikz_move") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 01:44:22: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 01:44:22: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 01:44:22: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 01:44:22: [SM] Call stack trace:
+L 09/05/2021 - 01:44:22: [SM]   [0] SetFailState
+L 09/05/2021 - 01:44:22: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 01:44:22: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 02:20:17: Error log file session closed.
+L 09/05/2021 - 02:20:17: SourceMod error session started
+L 09/05/2021 - 02:20:17: Info (map "trikz_cyrus") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 02:20:17: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 02:20:17: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 02:20:17: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 02:20:17: [SM] Call stack trace:
+L 09/05/2021 - 02:20:17: [SM]   [0] SetFailState
+L 09/05/2021 - 02:20:17: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 02:20:17: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 21:34:25: SourceMod error session started
+L 09/05/2021 - 21:34:25: Info (map "trikz_practice") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 21:34:25: [SM] Exception reported: This plugin requires one of the cURL, Socket, SteamTools, or SteamWorks extensions to function.
+L 09/05/2021 - 21:34:25: [SM] Blaming: updater.smx
+L 09/05/2021 - 21:34:25: [SM] Call stack trace:
+L 09/05/2021 - 21:34:25: [SM]   [0] SetFailState
+L 09/05/2021 - 21:34:25: [SM]   [1] Line 102, D:\Downloads\Unsorted\sourcemod-1.6.3-windows\addons\sourcemod\scripting\updater.sp::OnPluginStart
+L 09/05/2021 - 21:34:25: [SM] Unable to load plugin "updater.smx": Error detected in plugin startup (see error logs)
+L 09/05/2021 - 21:34:28: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 21:34:28: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 21:34:28: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 21:34:28: [SM] Call stack trace:
+L 09/05/2021 - 21:34:28: [SM]   [0] SetFailState
+L 09/05/2021 - 21:34:28: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 21:34:28: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 09/05/2021 - 21:35:11: Error log file session closed.
+L 09/05/2021 - 21:35:11: SourceMod error session started
+L 09/05/2021 - 21:35:11: Info (map "trikz_penguin") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210905.log")
+L 09/05/2021 - 21:35:11: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 09/05/2021 - 21:35:11: [SM] Exception reported: Mapcycle Not Found
+L 09/05/2021 - 21:35:11: [SM] Blaming: nextmap.smx
+L 09/05/2021 - 21:35:11: [SM] Call stack trace:
+L 09/05/2021 - 21:35:11: [SM]   [0] SetFailState
+L 09/05/2021 - 21:35:11: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 09/05/2021 - 21:35:11: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted

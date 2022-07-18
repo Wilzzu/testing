@@ -1,0 +1,10 @@
+"patch"
+{
+	include "materials/fakeexpert/player/vertex_default.vmt"
+	
+	insert
+	{
+		"$baseTexture" "fakeexpert/player/ct_sas/vertex"
+		"$bumpmap" "models/player/ct_sas/ct_sas_normal"
+	}
+}

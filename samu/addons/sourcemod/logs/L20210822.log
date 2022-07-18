@@ -1,0 +1,40 @@
+L 08/22/2021 - 20:33:44: SourceMod log file session started (file "I:\steamCMD\trikz server\cssds\cstrike\addons\sourcemod\logs\L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 20:33:44: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/22/2021 - 20:33:57: Log file closed.
+L 08/22/2021 - 20:40:14: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 20:40:14: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/22/2021 - 20:41:06: Log file closed.
+L 08/22/2021 - 20:41:09: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 20:41:09: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/22/2021 - 20:42:36: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 20:42:36: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/22/2021 - 20:49:22: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_kyoto_final"
+L 08/22/2021 - 20:49:25: [SM] Changed map to "trikz_kyoto_final"
+L 08/22/2021 - 20:49:30: -------- Mapchange to trikz_kyoto_final --------
+L 08/22/2021 - 20:50:40: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_pharaohs_tomb"
+L 08/22/2021 - 20:50:43: [SM] Changed map to "trikz_pharaohs_tomb"
+L 08/22/2021 - 20:50:46: -------- Mapchange to trikz_pharaohs_tomb --------
+L 08/22/2021 - 20:59:19: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_move"
+L 08/22/2021 - 20:59:22: [SM] Changed map to "trikz_move"
+L 08/22/2021 - 20:59:23: -------- Mapchange to trikz_move --------
+L 08/22/2021 - 21:02:03: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_Desert_b7"
+L 08/22/2021 - 21:02:06: [SM] Changed map to "trikz_Desert_b7"
+L 08/22/2021 - 21:02:08: -------- Mapchange to trikz_Desert_b7 --------
+L 08/22/2021 - 21:06:27: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "Trikz_Failtime"
+L 08/22/2021 - 21:06:30: [SM] Changed map to "Trikz_Failtime"
+L 08/22/2021 - 21:06:32: -------- Mapchange to Trikz_Failtime --------
+L 08/22/2021 - 21:07:35: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_TinTin"
+L 08/22/2021 - 21:07:38: [SM] Changed map to "trikz_TinTin"
+L 08/22/2021 - 21:07:40: -------- Mapchange to trikz_TinTin --------
+L 08/22/2021 - 21:08:46: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_alpha"
+L 08/22/2021 - 21:08:49: [SM] Changed map to "trikz_alpha"
+L 08/22/2021 - 21:08:50: -------- Mapchange to trikz_alpha --------
+L 08/22/2021 - 21:09:10: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_diversity_final"
+L 08/22/2021 - 21:09:13: [SM] Changed map to "trikz_diversity_final"
+L 08/22/2021 - 21:09:15: -------- Mapchange to trikz_diversity_final --------
+L 08/22/2021 - 21:38:23: SourceMod log file session started (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\L20210822.log") (Version "1.10.0.6510")
+L 08/22/2021 - 21:38:23: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/22/2021 - 21:39:09: [basecommands.smx] "TyöstöKärry<2><[U:1:91517524]><>" changed map to "trikz_tanyaisawhore"
+L 08/22/2021 - 21:39:12: [SM] Changed map to "trikz_tanyaisawhore"
+L 08/22/2021 - 21:39:13: -------- Mapchange to trikz_tanyaisawhore --------
+L 08/22/2021 - 22:05:17: [teleport.smx] "Dr. WilzzubB0b<5><[U:1:187499203]><>" teleported to "TyöstöKärry<2><[U:1:91517524]><>".

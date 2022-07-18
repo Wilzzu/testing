@@ -1,0 +1,29 @@
+L 08/29/2021 - 02:33:26: SourceMod error session started
+L 08/29/2021 - 02:33:26: Info (map "trikz_speed") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210829.log")
+L 08/29/2021 - 02:33:26: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 08/29/2021 - 02:33:26: [SM] Exception reported: Mapcycle Not Found
+L 08/29/2021 - 02:33:26: [SM] Blaming: nextmap.smx
+L 08/29/2021 - 02:33:26: [SM] Call stack trace:
+L 08/29/2021 - 02:33:26: [SM]   [0] SetFailState
+L 08/29/2021 - 02:33:26: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 08/29/2021 - 02:33:26: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 08/29/2021 - 02:40:17: Error log file session closed.
+L 08/29/2021 - 02:40:17: SourceMod error session started
+L 08/29/2021 - 02:40:17: Info (map "trikz_visuals") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210829.log")
+L 08/29/2021 - 02:40:17: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 08/29/2021 - 02:40:17: [SM] Exception reported: Mapcycle Not Found
+L 08/29/2021 - 02:40:17: [SM] Blaming: nextmap.smx
+L 08/29/2021 - 02:40:17: [SM] Call stack trace:
+L 08/29/2021 - 02:40:17: [SM]   [0] SetFailState
+L 08/29/2021 - 02:40:17: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 08/29/2021 - 02:40:17: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 08/29/2021 - 02:42:23: Error log file session closed.
+L 08/29/2021 - 02:42:23: SourceMod error session started
+L 08/29/2021 - 02:42:23: Info (map "trikz_visuals") (file "i:\steamcmd\trikz_server\cssds\cstrike\addons\sourcemod\logs\errors_20210829.log")
+L 08/29/2021 - 02:42:23: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 08/29/2021 - 02:42:23: [SM] Exception reported: Mapcycle Not Found
+L 08/29/2021 - 02:42:23: [SM] Blaming: nextmap.smx
+L 08/29/2021 - 02:42:23: [SM] Call stack trace:
+L 08/29/2021 - 02:42:23: [SM]   [0] SetFailState
+L 08/29/2021 - 02:42:23: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 08/29/2021 - 02:42:23: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted

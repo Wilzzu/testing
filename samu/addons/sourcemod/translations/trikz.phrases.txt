@@ -1,0 +1,258 @@
+"Phrases"
+{
+	"TZ autohi"
+	{
+		"en"			"This server running Trikz. Type !trikz for trikz menu."
+	}
+	"TZ respawn"
+	{
+		"en"			"You've been respawned."
+	}
+	"TZ respawn min"
+	{
+		"#format"		"{1:i}"
+		"en"			"You can only respawn {1} times pr. minute."
+	}
+	"TZ flash"
+	{
+		"en"			"You've got 1 flashbang."
+	}
+	"TZ flashbangs"
+	{
+		"en"			"You've got to many flashbangs."
+	}
+	"TZ autoflash on"
+	{
+		"en"			"Auto-Flash is ON."
+	}
+	"TZ autoflash off"
+	{
+		"en"			"Auto-Flash is OFF."
+	}
+	"TZ autoflashswitch on"
+	{
+		"en"			"Auto-Flash switch is ON."
+	}
+	"TZ autoflashswitch off"
+	{
+		"en"			"Auto-Flash switch is OFF."
+	}
+	"TZ block on"
+	{
+		"en"			"You are blocking now."
+	}
+	"TZ block off"
+	{
+		"en"			"You are ghost now."
+	}
+	"TZ save 1"
+	{
+		"en"			"Checkpoint 1 has been saved."
+	}
+	"TZ save 2"
+	{
+		"en"			"Checkpoint 2 has been saved."
+	}
+	"TZ teleport 1"
+	{
+		"en"			"You've been teleported to checkpoint 1."
+	}
+	"TZ teleport 2"
+	{
+		"en"			"You've been teleported to checkpoint 2."
+	}
+	"TZ menu title"
+	{
+		"en"			"Trikz menu"
+	}
+	"TZ menu auto title"
+	{
+		"en"			"AutoFlash menu"
+	}
+	"TZ menu auto title disabled"
+	{
+		"en"			"AutoFlash menu: disabled"
+	}
+	"TZ menu teleporttp"
+	{
+		"en"			"Choose player to teleport to"
+	}
+	"TZ menu teleporttp ask"
+	{
+		"#format"		"{1:N}"
+		"en"			"{1} would like to teleport to you"
+	}
+	"TZ menu flash"
+	{
+		"en"			"Give One Flash"
+	}
+	"TZ menu block"
+	{
+		"en"			"Toggle Blocking"
+	}
+	"TZ menu block disabled"
+	{
+		"en"			"Toggle Blocking: disabled"
+	}
+	"TZ menu checkpoints"
+	{
+		"en"			"Checkpoints menu"
+	}
+	"TZ menu checkpoints disabled"
+	{
+		"en"			"Checkpoints menu: disabled"
+	}
+	"TZ menu respawn"
+	{
+		"en"			"Respawn"
+	}
+	"TZ menu respawn disabled"
+	{
+		"en"			"Respawn: disabled"
+	}
+	"TZ menu save 1"
+	{
+		"en"			"Save 1st Checkpoint"
+	}
+	"TZ menu save 1 disabled"
+	{
+		"en"			"Save 1st Checkpoint: disabled"
+	}
+	"TZ menu save 2"
+	{
+		"en"			"Save 2nd Checkpoint"
+	}
+	"TZ menu save 2 disabled"
+	{
+		"en"			"Save 2nd Checkpoint: disabled"
+	}
+	"TZ menu teleport 1"
+	{
+		"en"			"Teleport to 1st Checkpoint"
+	}
+	"TZ menu teleport 1 disabled"
+	{
+		"en"			"Teleport to 1st Checkpoint: disabled"
+	}
+	"TZ menu teleport 2"
+	{
+		"en"			"Teleport to 2nd Checkpoint"
+	}
+	"TZ menu teleport 2 disabled"
+	{
+		"en"			"Teleport to 2nd Checkpoint: disabled"
+	}
+	"TZ Ground"
+	{
+		"en"			"You must stand on the ground to use this command."
+	}
+	"TZ Command disabled"
+	{
+		"en"			"The command you are trying to run is disabled."
+	}
+	"TZ Spec respawn"
+	{
+		"en"			"You can't respawn when you are on spectator."
+	}
+	"TZ Dead"
+	{
+		"en"			"You must be alive to use this command."
+	}
+	"TZ menu autoflash switch"
+	{
+		"en"			"Toggle Autoswitch"
+	}
+	"TZ menu autoflash switch disabled"
+	{
+		"en"			"Autoswitch: disabled"
+	}
+	"TZ menu autoflash"
+	{
+		"en"			"Toggle Autoflash"
+	}
+	"TZ menu autoflash disabled"
+	{
+		"en"			"Autoflash: disabled."
+	}
+	"TZ autoflash flash"
+	{
+		"en"			"You can't get a flash when you have autoflash on."
+	}
+	"TZ no teleport"
+	{
+		"en"			"You must have a place to teleport to."
+	}
+	"TZ autojump on"
+	{
+		"en"			"Autojump is enabled, hold jump button."
+	}
+	"TZ autojump off"
+	{
+		"en"			"Autojump is disabled."
+	}
+	"TZ menu autojump"
+	{
+		"en"			"Toggle Autojump"
+	}
+	"TZ menu autojump disabled"
+	{
+		"en"			"Toggle Autojump: disabled"
+	}
+	"TZ menu teleporttp"
+	{
+		"en"			"Teleport to player"
+	}
+	"TZ menu teleporttp disabled"
+	{
+		"en"			"Teleport to player: disabled"
+	}
+	"TZ teleporttp no players"
+	{
+		"en"			"No players available to teleport to."
+	}
+	"TZ teleporttp not allowed"
+	{
+		"en"			"This player don't want others to be able to teleport to him/her."
+	}
+	"TZ teleporttp menu allow"
+	{
+		"en"			"Allow"
+	}
+	"TZ teleporttp menu deny"
+	{
+		"en"			"Deny"
+	}
+	"TZ teleporttp menu allways deny"
+	{
+		"en"			"Deny and don't ask again."
+	}
+	"TZ teleporttp collide for"
+	{
+		"#format"		"{1:i}"
+		"en"			"You will be able to walk through other players for {1} secound(s)."
+	}
+	"TZ teleporttp request denied"
+	{
+		"en"			"Your request was denied."
+	}
+	"TZ teleporttp no longer notified"
+	{
+		"en"			"You will no longer be notified when someone ask to teleport to you. Type !teleport_noti to be notified again."
+	}
+	"TZ teleporttp notify me"
+	{
+		"en"			"You will now be notified when someone ask to teleport to you."
+	}
+	"TZ teleporttp asker no longer available"
+	{
+		"en"			"The player that asked to be teleported to you is either dead or has left the game."
+	}
+	"TZ teleporttp block setting reset"
+	{
+		"en"			"Your block setting has been reset to your original setting."
+	}
+	"TZ teleporttp block setting later"
+	{
+		"en"			"Your block setting will be set to this when the teleport time has passed."
+	}
+}
