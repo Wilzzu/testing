@@ -1,0 +1,54 @@
+"Phrases" //color you can use as \x07RGBCODE
+{
+	"Welcome"
+	{
+		"#format"	"{1:s}"
+		"en"	"Hello player {1} to our server."
+	}
+	"BoostFix"
+	{
+		"#format"	"{1:s}"
+		"en"	"Hello player {1}, this feature will be soon work."
+	}
+	"Flashbang"
+	{
+		"#format"	"{1:s}"
+		"en"	"Hello player {1}, this feature is enabled now."
+	}
+	"Switch"
+	{
+		"#format"	"{1:s}"
+		"en"	"Hello player {1}, auto switch is enabled now."
+	}
+	"GivedFlashbang"
+	{
+		"#format"	"{1:s}"
+		"en"	"\x07FFFFFFFlashbang weapon is gived for you \x07696969{1}."
+	}
+	"MenuTrikz"
+	{
+		"#format"	"{1:s}"
+		//"en"	"\xMenu is opened {1}."
+	}
+	"Remove"
+	{
+		"#format"	"{1:s}"
+		"en"	"\x07FFFFFFHello player - {1}, now flashbang remover is enabled now."
+	}
+	"BlockON"
+	{
+		"#format"	"{1:s}, {2:s}"
+		"en"	"\x07FFFFFFHello player - {1}, now block is toggled on."
+	}
+	"BlockOFF"
+	{
+		"#format"	"{1:s}"
+		"en"	"\x07FFFFFFHello player - {1}, now block is turned off."
+	}
+	"Sourcemod"
+	{
+		"#format"	"{1:s}"
+		//"en"	"\x07FFFFFFHello player"
+		"en"	"\x07696969"
+	}
+}
